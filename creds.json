@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "platinum-wave-264514",
+  "private_key_id": "03d15b89725454948b40433efa228e0af9d38423",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDntHNyPTS2x9jo\nuPcqEL719sfbIWIGJeJXZWoHNif+5iR5b+sfqlrwHQv6sV9zRlSqzi7juX8tZLC5\n3zot0mvlo2oqXo8S5Khwa1QNIIOSOgRsEGeeEEUUK0zRpqBNYqFiA8h07JEtIZV0\np5vjsuNlwiFWLoyppfs9IhSuGClzQS67hqENerAO/wW6uJdyaPin40DgptI778z4\nizs8BrRAnbdJwHyI7DYMCt33spJT4qVXYHu9jMGMJXNCAnwUK8yqr9jI/I8MA9KP\n8RTLCc8DW+llXQqTsGDz9DAw5KUT7BWrMIgUsnyvlR/MdgQ+zkS4Oz//VrdbOMcI\nNfffUAC7AgMBAAECggEAaxH/kShIbjhOe0hR6u3fGJEnzJKSFg42mDVEeD2l4Mvf\nygAWUkUqDbAWg4uodH/pCx8JGvFym/reEZ5eZ6NHec/4dMjKa6wfTAfEyOYf9pf5\nyCgSgb+59DaIIo9Rn0D3G3BtFt7kvUq6IjR7vI5DN5gsSINtO834Gclgbgy7RsbU\nl4QnWId8MjDf5+cqCbnI+uybpyOxF4HYJv1eRGycuM7InqA8n3Xas3yPVm4yj1OX\nqr6K07i/8H/gxZMGYQoGqxYrqgnrRS8v0p0NG4UbL3JE/PCeCDK948s0T4GRm1EK\n3rIWaA/7APeOv+NDQS/HhJ+eWqz8L6LTB7x0lYecEQKBgQD5OLpOuo2y2pCokkp1\nMWMgBNqJtqDgYQLGvnfaHqqFhcEOqHugv0jMj1XhrnnBaVrmtwzydqEKpua6dqNE\nS4t9eL1ktX16vU4JX9mCm/OfPjajtqmhENy3FbCA2MIE+Z27H0qaLXhNA21GHCXY\ny0pUBjvXz+Qo1EQRTnem9nkvUQKBgQDuAcIoZh2pGCND30WL4aoEiV+rGXGSoOh4\nj8T/2If7PPXcyWoPEBqo2FDkm9jeU66iLJ4YyMTs+yG9+gOXFY0EeOzsRR66PPI1\nhn40DIDBBCfo/vIksxeTWC3vHhAhAHr59WPM5HBOnIzz4InT3TjT7hPSUiLswgJ4\nYEzxlDvkSwKBgGe/N7+iZW55EhM6owhaQNuJabg+cIY3nEJD8/y3G2FuJsoFVUG7\nn4CYgrXqPgFH7HFy7k7ZF30psY8Z6Cl8EVtwMdeEvfGkcKHyZse6SBaYfYJ1ffPw\n4xDMVKeulEYh64mEIzg/iX712D2BZjfzmMOVvL/AaUid5KAXvDOjExuhAoGBALir\nQJzb7rOe+O3WtT190M9IT6SQT2D33Kh+1Nm2hnvXpuSymsopMqZDgTCAA9stjthi\nSiDs1m8Rw/KFpHd7zzjjIuGIF/llBIGnYxC7isM4mEbeWb9D/kzjJHDeIKGan9CG\nJ/N4Y/N64JrxY7+xbEBz/4k3FcYiGoyQG+NtorLVAoGBAI9u9do7idwwaQ8CtUf7\nH/k1tzoLYmiuVGGpjR4w0xpsmX15FM0rU5ek3Fr7dtoQIGJ3kKo+k1lczVwXxweL\nlPTF3g1+SEZL7KMjVLO8FTc1mI/IZSMpoSAWMbr3h+dKWQLa1cyXsFb4UsUdo69+\nmiEy3/272DHDNdYOva+UV+J8\n-----END PRIVATE KEY-----\n",
+  "client_email": "platinum-wave-264514@appspot.gserviceaccount.com",
+  "client_id": "105589618978409879244",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/platinum-wave-264514%40appspot.gserviceaccount.com"
+}
